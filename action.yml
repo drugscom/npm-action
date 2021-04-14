@@ -1,0 +1,5 @@
+name: 'NPM'
+description: 'Run Node.js NPM'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
