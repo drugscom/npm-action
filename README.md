@@ -5,7 +5,7 @@ This action runs Node.js NPM.
 ## Example usage
 
 ```yaml
-uses: drugscom/npm-action@v1
+uses: docker://ghcr.io/drugscom/npm-action:1
 with:
   args: ci
 ```
