@@ -1,4 +1,4 @@
-FROM docker.io/library/alpine:edge
+FROM docker.io/library/alpine:3.14
 
 LABEL 'com.github.actions.name'='NPM'
 LABEL 'com.github.actions.description'='Run Node.js NPM'
