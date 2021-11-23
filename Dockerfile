@@ -1,4 +1,4 @@
-FROM alpine:3.13.2
+FROM alpine:3.13
 
 LABEL 'com.github.actions.name'='NPM'
 LABEL 'com.github.actions.description'='Run Node.js NPM'
